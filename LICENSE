@@ -1,0 +1,7 @@
+`2of12inf.txt` is compiled by Alan Beale.
+
+`agid.txt` is included with the script because `2of12inf.txt` is derived from AGID by Kevin Atkinson (but is otherwise public domain), which requires the text file to be present.
+
+`ts_solve.bat` is provided "as-is," without warranty of any kind. You are free to distribute this script as desired as long as this legal notice and `agid.txt` are included in the distribution.
+
+(c) 2024 by sintrode
